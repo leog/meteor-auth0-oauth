@@ -1,4 +1,5 @@
 {
+  "name": "auth0-oauth",
   "eslintConfig": {
     "parserOptions": {
       "ecmaFeatures": {
